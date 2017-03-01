@@ -416,6 +416,7 @@
 				AE21383A1E667B3000A26DC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AE21383B1E667B3000A26DC3 /* Build configuration list for PBXNativeTarget "AVPlayerDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				AE21383D1E667B3000A26DC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
